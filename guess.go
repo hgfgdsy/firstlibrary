@@ -2,6 +2,6 @@ package firstlibrary
 
 import "fmt"
 
-func greetings(){
+func Greetings(){
 	fmt.Println("Hello, world!")
 }
