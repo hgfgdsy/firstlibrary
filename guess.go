@@ -2,10 +2,10 @@ package firstlibrary
 
 import (
 	"fmt"
-	"github.com/hgfgdsy/firstlibrary/subl"
+	"github.com/hgfgdsy/firstlibrary/v2/subl"
 )
 
-func Greetings(){
+func Greetings() {
 	fmt.Println("Hello, world!")
 	subl.Goodybe()
 }
