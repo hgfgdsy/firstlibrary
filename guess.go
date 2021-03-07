@@ -6,6 +6,6 @@ import (
 )
 
 func Greetings() {
-	fmt.Println("Hello, world222!")
+	fmt.Println("Hello, world111!")
 	subl.Goodybe()
 }
