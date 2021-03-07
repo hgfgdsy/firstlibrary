@@ -2,7 +2,7 @@ package firstlibrary
 
 import (
 	"fmt"
-	"github.com/hgfgdsy/firstlibrary/v2/subl"
+	"github.com/hgfgdsy/firstlibrary/subl"
 )
 
 func Greetings() {
