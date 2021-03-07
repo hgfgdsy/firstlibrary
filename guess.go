@@ -1,7 +1,11 @@
 package firstlibrary
 
-import "fmt"
+import (
+	"fmt"
+	"github.com/hgfgdsy/firstlibrary/subl"
+)
 
 func Greetings(){
 	fmt.Println("Hello, world!")
+	subl.Goodybe()
 }
