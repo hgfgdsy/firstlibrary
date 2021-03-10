@@ -2,8 +2,8 @@ package firstlibrary
 
 import (
 	"fmt"
+	"github.com/hgfgdsy/alix/v2"
 	"github.com/hgfgdsy/firstlibrary/subl"
-	"github.com/hgfgdsy/alix"
 )
 
 func Greetings() {
